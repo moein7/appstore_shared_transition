@@ -9,7 +9,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "expo": "^32.0.0",
+    "expo": "^52.0.7",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-redash": "^1.4.1"
@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/expo": "^32.0.11",
     "babel-preset-expo": "^5.0.0",
-    "eslint": "^5.16.0",
+    "eslint": "^9.15.0",
     "eslint-config-react-native-wcandillon": "^1.0.6"
   },
   "private": true
